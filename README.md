@@ -63,4 +63,4 @@ cat -/.ssh/id_rsa.pub = to lookup the generated SSH Key
 
 _________________________________________________________________________
 26 Must-Know Git Commands in 2021 - 
-https://raftlabs.medium.com/26-must-know-git-commands-in-2021-4160fbe7272
+https://raftlabs.medium.com/26-must-know-git-commands-in-2021-4160fbe7272 
